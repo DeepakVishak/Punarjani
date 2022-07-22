@@ -1,0 +1,19 @@
+Instructions to follow for final build
+**************************************
+
+1. Don't delete files inside bin folder.
+2. Restore Final.sql in MySQL Administrator.
+3. Run Organ_Donation.jar with "Java(TM) Platform SE Binary".
+4. Email ID, Password & Mode of administrator
+   Email ID                    ||Password || Mode
+   ==============================================
+   deepakvishal016@gmail.com   ||123456   || Developer
+   rsubramony029@gmail.com     ||123456   || Developer
+   sreejithsnair039@gmail.com  ||123456   || Developer
+   jitha012@gmail.com          ||123456   || Board
+
+Instructions to follow for testing & debudding
+**********************************************
+
+1. Restore Final.sql in MySQL Administrator.
+2. Copy folders "Library" and "Organ_Daonation" to NetBeans source location
